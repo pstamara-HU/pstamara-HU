@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @pstamara-HU
+- 👀 I’m interested in Canvas hacks, UX design teaching ideas, and anything related to teaching UX ...
+- 🌱 I’m currently learning how to become a Jedi in Canvas ...
+- 📫 How to reach me tpeyton@harrisburgu.edu ...
+
+<!---
+pstamara-HU/pstamara-HU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
